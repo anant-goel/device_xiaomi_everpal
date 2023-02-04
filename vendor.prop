@@ -38,6 +38,7 @@ persist.log.tag.DSSelectorUtil=I
 persist.log.tag.DataDispatcher=I
 persist.log.tag.DcFcMgr=I
 persist.log.tag.ExternalSimMgr=I
+persist.log.tag.gralloc4=S
 persist.log.tag.GsmCallTkrHlpr=I
 persist.log.tag.GsmCdmaConn=I
 persist.log.tag.GsmCdmaPhone=I
