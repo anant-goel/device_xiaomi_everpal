@@ -15,7 +15,7 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 $(call inherit-product, device/xiaomi/everpal/device.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_NAME := aosp_everpal
+PRODUCT_NAME := lineage_everpal
 PRODUCT_DEVICE := everpal
 PRODUCT_MANUFACTURER := xiaomi
 PRODUCT_BRAND := Redmi
