@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_everpal.mk
+    $(LOCAL_DIR)/weedos_everpal.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_everpal-user \
-    aosp_everpal-userdebug \
-    aosp_everpal-eng
+    weedos_everpal-user \
+    weedos_everpal-userdebug \
+    weedos_everpal-eng
